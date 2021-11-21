@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "8pose.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
